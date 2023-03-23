@@ -5,7 +5,7 @@
 
 - Screens made programmatically
 
-- Viper architecture
+- Viper/Clean Swift architecture
 
 Preview of the App:
 
