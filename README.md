@@ -7,7 +7,7 @@
 
 - Viper/Clean Swift architecture
 
-- The API request was made with the Alamofire library (SPM)
+- The API request was made with Alamofire library (SPM)
 
 Preview of the App:
 
