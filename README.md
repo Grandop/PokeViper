@@ -9,6 +9,12 @@
 
 - The API request was made with Alamofire library (SPM)
 
+- UINavigationController for navigation between screens
+
+- UITableView
+
+- Autolayout
+
 Preview of the App:
 
 https://user-images.githubusercontent.com/104664138/227363690-eb215243-fac7-4489-b17d-75102ceb9b20.mp4
